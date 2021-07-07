@@ -15,11 +15,11 @@ ISTRUZIONI PER ESEGUIRE:
 
 1. Aver installato Express
 2. Ambiente AMP ( xampp, mamp ... ) o server MySQL
-3. Download o cloan il progetto nel link : @@@@@@@.github
+3. Download o cloan il progetto nel link : https://github.com/AlessandroRossi98/RentalSpartani.git
 4. Importare il file     "NoloDB.sql " nel server MySQL
 5. Aprire database.js e inserire le credenziali su cui si è salvato il Database
 6. Installare i node_modules con npm install dal file package.json
-7. Nel path del progetto avviare npm start.
+7. Nel terminal nel path del progetto digita npm start.
 8. Digitare nel browser  : "localhost:3000" 
 
 
